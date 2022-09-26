@@ -1,0 +1,7 @@
+@import url("estilos/cabecalho.css");
+@import url("estilos/chamada.css");
+
+:root{
+    --mont: 'Montserrat';
+    --branco: #FFF;
+}
